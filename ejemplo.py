@@ -1,0 +1,4 @@
+import Recomendaciones_POS_Cross_Selling
+class_reco = Recomendaciones_POS_Cross_Selling.clase_recomendadores()
+
+class_reco.inferencias_pos_checkout(cliente=1000730,productos=[26188])

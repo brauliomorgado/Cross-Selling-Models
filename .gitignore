@@ -1,0 +1,8 @@
+Articulos/
+*.csv
+*.bin
+*.pkl
+*.npz
+*.docx
+*.xlsx
+*.joblib
